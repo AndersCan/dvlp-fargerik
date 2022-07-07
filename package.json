@@ -1,0 +1,28 @@
+{
+  "name": "dvlp-fargerik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dvlp --port 3000 server.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndersCan/dvlp-fargerik.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndersCan/dvlp-fargerik/issues"
+  },
+  "homepage": "https://github.com/AndersCan/dvlp-fargerik#readme",
+  "dependencies": {
+    "@nrk/fargerik-defaults": "^6.2.0",
+    "dvlp": "^14.2.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.3"
+  }
+}
